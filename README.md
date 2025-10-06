@@ -44,10 +44,10 @@ The project consists of three main parts:
 
 ---
 
-## 👥 Authors
+> ⚠️ Academic Disclaimer  
+> This project was developed by **Andrés Felipe Porras** and **Lucas Balvin** as part of the  
+> control module at **Universidad Militar Nueva Granada (2017–2021)**.  
+> The content is shared for educational and portfolio purposes only.  
+> No proprietary or restricted university materials are included.
 
-- **Andrés Porras**  
-- **Lucas Balvin**  
-
-Universidad Militar Nueva Granada – Mechatronics Engineering Program  
 ---
