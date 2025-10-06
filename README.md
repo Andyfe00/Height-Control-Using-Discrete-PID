@@ -19,12 +19,10 @@ The project consists of three main parts:
 
 | Folder / File | Description |
 |----------------|-------------|
-| `lab7_report.pdf` | Final laboratory report |
 | `Lb_Control.vi` | LabVIEW interface and block diagram |
 | `arduino/` | Arduino code implementing the discrete PID controller |
 | `Escalon/` | Simulations for the step input response |
 | `Rampa/` | Simulations for the ramp input response |
-| `slprj/` | Simulink project folder (auto-generated, optional to include) |
 
 ---
 
